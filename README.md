@@ -149,7 +149,7 @@ Images are ranked based on rescue ratio to evaluate mission effectiveness.
 ------------------------------------------------------------
 
 ## 👨‍💻 Author
-Dev Pandey
+Dev Pandey, 
 Project developed as part of the UAS Rescue Assignment Task.
 
 ------------------------------------------------------------
